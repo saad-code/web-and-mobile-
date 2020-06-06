@@ -1,0 +1,98 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar{
+    background-color:black !important;
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold !important
+}
+.logo{
+    width: 130px;
+}
+.navbar-toggler{
+    color: white !important;
+    background-color: white !important;
+}
+.fa-user-circle{
+    font-size: 24px !important;
+}
+.fa-tools,.fa-check-circle,.fa-car{
+    font-size: 50px !important;
+    margin-right: 10px;
+    color: rgb(235, 140, 16) !important;
+}
+.card1,.card2,.card3{
+    display: flex;
+    width: 400px;
+    height: 100px;
+    background-color: white;
+    box-shadow: 2px 2px 4px 5px gray;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.mainCard{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.write{
+    color: rgb(235, 140, 16);
+}
+.featured{
+    margin-top: 30px;
+}
+.card-title{
+    font-weight: bold !important;
+}
+.heading{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.heading >h1{
+    text-shadow: 2px 2px 4px  rgb(235, 140, 16) ;
+}
+.card-title{
+    color:rgb(235, 140, 16) !important ; ;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: rgb(235, 140, 16);
+}
+footer{
+    background-color: black;
+    text-align: center;
+    background-color: black;
+    color: rgb(235, 140, 16);
+    margin-top: 30px;
+    padding: 20px;
+}
+}
+.fa-facebook,.fa-twitter,.fa-instagram,.fa-whatsapp{
+    font-size: 30px;
+    width: 50px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .login1{
+      text-align: center;
+      color:rgb(235, 140, 16) ;
+  }
+  form{
+      margin: 40px;
+  }
+  .about{
+      padding: 20px;
+  }
