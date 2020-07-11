@@ -1,0 +1,31 @@
+.maind {
+     width: 900px; 
+    height: 600px; 
+    text-align: center; 
+    display: block;
+      padding: 5px;
+       margin: 0 auto;  
+    background-image: url(https://images.unsplash.com/photo-1431499012454-31a9601150c9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80);}
+ span{ width: auto;
+     height: auto;
+      padding: 2px; 
+      font-weight: bold;
+       font-family: tahoma;
+        /* display: block; */
+         border: 1px solid #eee;
+          text-align: center;
+           box-shadow: 0 0 5px #ccc;
+            background: #fbfbf0;
+             color: darkblue;
+              border-bottom:4px solid darkgrey; }
+     button { cursor: pointer;
+        
+        padding: 3px;
+                 font-weight: 700;
+                width: 100px;
+            box-shadow: 1px 2px 3px 3px black; } 
+    .head{
+        font-size: 52px;
+        color: crimson;
+        text-shadow: 3px 4px 4px gray;
+    }
